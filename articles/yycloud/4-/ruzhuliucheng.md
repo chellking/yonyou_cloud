@@ -4,11 +4,11 @@
 
 ![](/articles/yycloud/4-/images/ruzhu1.jpg)
 
-### 按照要求填写服务商信息并提交后，等待系统审核
+### 按照要求填写服务商信息并提交后，等待系统审核即可
 
 ![](/articles/yycloud/4-/images/ruzhu2.jpg)
 
-### 审核通过后即可通过“服务商中心”按钮进入服务商页面
+### 审核通过后即可通过“服务商中心”按钮进入服务商页面，审核未通过，重新填写信息提交。
 
 ![](/articles/yycloud/4-/images/ruzhu3.jpg)
 

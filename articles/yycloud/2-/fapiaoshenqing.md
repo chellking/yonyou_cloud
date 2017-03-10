@@ -15,7 +15,7 @@
 
 ![](/articles/yycloud/2-/images/fapiao2.jpg)
 
-### 5、按照提示录入发票信息。
+### 5、录入发票信息。
 
 ![](/articles/yycloud/2-/images/fapiao3.jpg)
 

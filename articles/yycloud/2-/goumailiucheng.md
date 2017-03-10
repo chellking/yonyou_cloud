@@ -19,14 +19,14 @@
 
 ![](/articles/yycloud/2-/images/goumai1.jpg)
 
- 5、商品规格确认后，点击“立即购买”按钮，进入订单付款界面。
+ 5、商品规格确认后，点击“立即购买”按钮，进入订单付款界面进行支付。
 
 ![](/articles/yycloud/2-/images/goumai2.jpg)
 
  6、支付结果确认。
 
 ![](/articles/yycloud/2-/images/goumai3.jpg)
-支付后可以在订单管理中进行查询
+支付后可以在订单管理中进行查询。
 
  7.商品购买完成.
 
@@ -41,4 +41,4 @@
 ![](/articles/yycloud/2-/images/goumai4.jpg)
 
  3、已支付及未支付订单可以通过本页查询，对未支付订单，可以选择“去支付”按钮，跳转到支付页，继续进行支付。
-
+4、订单查询完成。

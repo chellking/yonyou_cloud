@@ -1,6 +1,6 @@
 # 发票申请
 ### 用户需要开具发票时，首先找到需要开具发票的订单
-![](/articles/yycloud/2-/开发票-开发票1.jpg)
+![](/articles/yycloud/2-/fapiao1.jpg)
 ### 进入订单详情页，点击“索取发票”按钮
 ![](/articles/yycloud/2-/开发票-开发票2.jpg)
 ### 按照提示录入发票信息

@@ -4,6 +4,11 @@
 
 ![](/articles/yycloud/2-/images/fapiao01.jpg)
 
+### 在云市场中进行选择
+
+![](/articles/yycloud/2-/images/goumai6.jpg)
+
+
 ### 搜索需要购买的商品
 
 ![](/articles/yycloud/2-/images/goumai5.jpg)

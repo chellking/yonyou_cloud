@@ -9,7 +9,7 @@
 ![](/articles/yycloud/2-/images/goumai6.jpg)
 
 
-### 搜索需要购买的商品
+### 3、搜索和筛选需要购买的商品
 
 ![](/articles/yycloud/2-/images/goumai5.jpg)
 

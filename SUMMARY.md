@@ -10,7 +10,7 @@
     * [云市场简介](articles/yycloud/3-/yunshichang.md)
     * [云市场服务协议](articles/yycloud/3-/fuwuxieyi.md)
 * [服务商入驻](articles/yycloud/4-/README.md)
-    * [服务商入驻条件](articles/yycloud/4-/ruzhutiaojian.md)
+    * [云平台服务协议](articles/yycloud/3-/fuwuxieyi.md)
     * [服务商入驻流程](articles/yycloud/4-/ruzhuliucheng.md)
     * [服务商管理规范](articles/yycloud/4-/guanliguifan.md)
 

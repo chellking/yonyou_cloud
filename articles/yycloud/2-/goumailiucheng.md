@@ -1,5 +1,12 @@
 # 购买流程
 
+### 用户登录用友云市场
+
+![](/articles/yycloud/2-/images/fapiao01.jpg)
+
+### 搜索需要购买的商品
+
+
 ###   1、用户选择自己需要的商品，并确认规格：
 ![](/articles/yycloud/2-/images/goumai1.jpg)
 

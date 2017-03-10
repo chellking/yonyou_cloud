@@ -7,7 +7,7 @@
 ### 选择“管理我的服务”，进入管理页
 ![](/articles/yycloud/2-/images/fapiao02.jpg)
 
-### 用户需要开具发票时，首先找到需要开具发票的订单
+### 找到需要开具发票的订单
 
 ![](/articles/yycloud/2-/images/fapiao1.jpg)
 

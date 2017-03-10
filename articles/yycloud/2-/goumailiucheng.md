@@ -4,6 +4,11 @@
 
 ![](/articles/yycloud/2-/images/fapiao01.jpg)
 
+### 在云市场中进行选择
+
+![](/articles/yycloud/2-/images/goumai6.jpg)
+
+
 ### 搜索需要购买的商品
 
 ![](/articles/yycloud/2-/images/goumai5.jpg)
@@ -28,5 +33,5 @@
 
 ![](/articles/yycloud/2-/images/goumai4.jpg)
 
- 已支付及未支付订单可以通过本页查询，对未支付订单，可以选择“去支付”按钮，跳转到支付页，继续进行支付。
+### 已支付及未支付订单可以通过本页查询，对未支付订单，可以选择“去支付”按钮，跳转到支付页，继续进行支付。
 

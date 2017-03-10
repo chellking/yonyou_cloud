@@ -1,6 +1,12 @@
-# 服务商入住流程
+# 服务商入住
 
-### 用户注册登录后，点击“服务上认证”按钮，进入服务商认证申请页
+## 一、入住流程
+
+![](/articles/yycloud/4-/images/import.png)
+
+## 二、操作详解
+
+### 1、用户注册登录后，点击“服务上认证”按钮，进入服务商认证申请页
 
 ![](/articles/yycloud/4-/images/ruzhu1.jpg)
 
@@ -15,3 +21,4 @@
 ### 在服务商中心页，可以修改服务商信息等信息
 
 ![](/articles/yycloud/4-/images/ruzhu4.jpg)
+

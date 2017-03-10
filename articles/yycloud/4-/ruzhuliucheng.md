@@ -24,4 +24,4 @@
 
 ![](/articles/yycloud/4-/images/ruzhu4.jpg)
 
-### 8.服务商入驻完成
+### 6.服务商入驻完成

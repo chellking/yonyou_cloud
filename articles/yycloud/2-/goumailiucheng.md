@@ -19,7 +19,7 @@
 
 ![](/articles/yycloud/2-/images/goumai1.jpg)
 
- 5、商品规格确认后，点击“立即购买”按钮，进入订单付款界面进行支付。
+ 5、商品规格确认后，点击“立即购买”按钮，生成订单，进入订单付款界面进行支付。
 
 ![](/articles/yycloud/2-/images/goumai2.jpg)
 

@@ -18,6 +18,7 @@
 ![](/articles/yycloud/4-/images/ruzhu2.jpg)
 
 ### 4、审核通过后您注册时使用的手机将收到入驻成功通知，请注意查收！
+
 ### 5、登录后可通过“服务商中心”按钮进入服务商页面；审核未通过，重新填写信息提交。
 
 ![](/articles/yycloud/4-/images/ruzhu3.jpg)

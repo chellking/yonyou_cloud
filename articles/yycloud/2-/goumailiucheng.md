@@ -4,7 +4,7 @@
 
 ![](/articles/yycloud/2-/images/fapiao01.jpg)
 
- 2、在云市场中进行选择。
+ 2、在云市场中进行商品选择。
 
 ![](/articles/yycloud/2-/images/goumai6.jpg)
 

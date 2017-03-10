@@ -1,5 +1,5 @@
 # 购买流程
-## 一、选取商品进行购买
+## 选取商品进行购买
  1、用户登录用友云市场。
 
 ![](/articles/yycloud/2-/images/fapiao01.jpg)
@@ -30,7 +30,7 @@
 
  7.商品购买完成.
 
-## 二、订单查询
+## 订单查询
 
  1、点击“管理我的服务”。
  ![](/articles/yycloud/2-/images/fapiao02.jpg)

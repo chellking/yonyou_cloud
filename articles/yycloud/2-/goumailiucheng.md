@@ -10,13 +10,16 @@
 
 
 
-###   用户选择自己需要的商品，并确认规格：
+###   用户选择自己需要的商品，并确认规格
+
 ![](/articles/yycloud/2-/images/goumai1.jpg)
 
 ### 确认后，点击“立即购买”按钮，进入订单付款界面
+
 ![](/articles/yycloud/2-/images/goumai2.jpg)
 
 ### 支付结果确认
+
 ![](/articles/yycloud/2-/images/goumai3.jpg)
 
 ## 订单查询

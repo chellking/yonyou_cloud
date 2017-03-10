@@ -10,6 +10,7 @@
 ![](/articles/yycloud/2-/images/goumai3.jpg)
 
 ## 订单查询
+
 ### 通过“管理我的服务”，进入订单记录页
 ![](/articles/yycloud/2-/images/goumai4.jpg)
  已支付及未支付订单可以通过本页查询，对未支付订单，可以选择“去支付”按钮，跳转到支付页，继续进行支付。

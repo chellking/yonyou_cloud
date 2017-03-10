@@ -19,7 +19,7 @@
 
 ![](/articles/yycloud/4-/images/ruzhu3.jpg)
 
-### 4、在服务商中心页，可以修改服务商信息等信息
+### 5、在服务商中心页，可以修改服务商信息等信息
 
 ![](/articles/yycloud/4-/images/ruzhu4.jpg)
 

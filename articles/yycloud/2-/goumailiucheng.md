@@ -6,6 +6,9 @@
 
 ### 搜索需要购买的商品
 
+![](/articles/yycloud/2-/images/goumai5.jpg)
+
+
 
 ###   1、用户选择自己需要的商品，并确认规格：
 ![](/articles/yycloud/2-/images/goumai1.jpg)

@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [产品简介](articles/yycloud/1-/README.md)
-* [获取指南](articles/yycloud/2-/README.md)
+* [新手入门](articles/yycloud/2-/README.md)
     * [介质说明](articles/yycloud/2-/jie_zhi_shuo_ming.md)
     * [安装使用](articles/yycloud/2-/an_zhuang_shi_yong.md)
 * [快速入门](articles/yycloud/4-/README.md)

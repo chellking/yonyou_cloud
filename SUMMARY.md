@@ -12,5 +12,6 @@
 * [服务商入驻](articles/yycloud/4-/zero.md)
     * [云平台服务协议](articles/yycloud/4-/fuwuxieyi.md)
     * [服务商入驻流程](articles/yycloud/4-/ruzhuliucheng.md)
+    * [商品上架流程](articles/yycloud/4-/shangjialiucheng.md)
     * [服务商管理规范](articles/yycloud/4-/guanliguifan.md)
 

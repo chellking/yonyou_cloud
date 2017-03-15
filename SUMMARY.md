@@ -1,4 +1,4 @@
-# Summary 
+# Summary
 
 * [Introduction](README.md)
 * [用友云简介](articles/yycloud/1-/README.md)
@@ -11,9 +11,6 @@
     * [售后服务](articles/yycloud/2-/shouhou.md)
     * [服务纠纷](articles/yycloud/2-/jiufen.md)
     * [申请发票](articles/yycloud/2-/shenqing.md)
-    * [1官网介绍](articles/yycloud/2-/guanwangjieshao.md)
-    * [1购买流程](articles/yycloud/2-/goumailiucheng.md)
-    * [1发票申请](articles/yycloud/2-/fapiaoshenqing.md)
 * [生态合作](articles/yycloud/5-/zero.md)
     * [入驻条件](articles/yycloud/5-/tiaojian.md)
     * [入驻流程](articles/yycloud/5-/liucheng.md)

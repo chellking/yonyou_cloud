@@ -159,6 +159,8 @@ U超客、U会员、U商城、U订货和电商通
 # 开发者中心
 
 1. ​ 链接进入【开发者中心】网站
+![](/articles/yycloud/2-/images/image007.jpg)
+
 2. 已登录的用户，进入【开发者中心】不需二次登录
 
 # 合作与生态
@@ -180,15 +182,9 @@ U超客、U会员、U商城、U订货和电商通
 
 ![](/articles/yycloud/2-/images/image003.png)
 
-
-
 **让你的产品，在这里彻底火起来**
 
 ![](/articles/yycloud/2-/images/image004.png)
-
-
-
-
 
 # 社区
 

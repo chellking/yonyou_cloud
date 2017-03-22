@@ -17,6 +17,7 @@
     * [常见问题](articles/yycloud/5-/wenti.md)
 * [服务商入驻](articles/yycloud/4-/zero.md)
     * [云平台服务协议](articles/yycloud/4-/fuwuxieyi.md)
+    * [用友云服务协议](articles/yycloud/4-/yunxieyi.md)
     * [服务商入驻流程](articles/yycloud/4-/ruzhuliucheng.md)
     * [服务商商品上架](articles/yycloud/4-/shangjialiucheng.md)
     * [服务商管理规范](articles/yycloud/4-/guanliguifan.md)

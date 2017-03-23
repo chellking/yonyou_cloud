@@ -22,8 +22,7 @@
     * [服务商商品上架](articles/yycloud/4-/shangjialiucheng.md)
     * [服务商管理规范](articles/yycloud/4-/guanliguifan.md)
 * [服务保障](articles/yycloud/service/zero.md)
- * [优质商家服务](articles/yycloud/service/service_support_1.md)
- * [全年运维保障]()
- * [多渠道服务支持]()
-
+    * [优质商家服务](articles/yycloud/service/service_support_1.md)
+    * [全年运维保障](articles/yycloud/service/service_support_2.md)
+    * [多渠道服务支持](articles/yycloud/service/service_support_3.md)
 

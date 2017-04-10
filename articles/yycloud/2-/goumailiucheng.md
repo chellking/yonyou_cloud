@@ -2,7 +2,7 @@
 ## 选取商品进行购买
 1、用户登录用友云官网：https://www.yonyoucloud.com/。
 
-![](/articles/yycloud/2-/images/fapiao01.png)
+![](/articles/yycloud/2-/images/goumai01.png)
 
 2、进入云市场。
 
@@ -40,7 +40,7 @@
 
 1、点击【管理我的服务】。
  
-![](/articles/yycloud/2-/images/fapiao02.png)
+![](/articles/yycloud/2-/images/goumai02.png)
 
 
 2、进入订单记录页。

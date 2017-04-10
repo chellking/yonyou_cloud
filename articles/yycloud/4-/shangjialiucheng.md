@@ -2,12 +2,12 @@
 ##（一）	上架商品可以是新增，或对现有商品进行再编辑进行上架。
 新增商品，点击“商品管理”->“已上架”的“添加商品”按钮，编辑商品基础信息。
 
-![](/articles/yycloud/4-/images/shangjia1.jpg)
+![](/articles/yycloud/4-/images/shangjia1.png)
 
 
 ##（二）	进入商品信息接入界面，选择商品分类，及开通方式。
 
-![](/articles/yycloud/4-/images/shangjia2.jpg)
+![](/articles/yycloud/4-/images/shangjia2.png)
 
 
 a)	市场分类：商品所属市场类型分类。
@@ -24,7 +24,7 @@ e)	需要用户授权：手机或邮箱。
 
 ##（三）	编辑商品基本信息。
 
-![](/articles/yycloud/4-/images/shangjia3.jpg)
+![](/articles/yycloud/4-/images/shangjia3.png)
 
 a)	客户群体：商品的目标客户类型。
 
@@ -61,7 +61,7 @@ o)	搜索引擎优化信息：请填写标题、关键字和说明。
 
 ##（四）	商品版本规格编制，确定数量、时长等信息。
 
-![](/articles/yycloud/4-/images/shangjia4.jpg)
+![](/articles/yycloud/4-/images/shangjia4.png)
 
 a)	订购方式：请选择商品的订购方式，是否允许多用户购买。
 
@@ -71,7 +71,7 @@ b)	请输入版本名称：不同订购方式对应的版本规格设置不同�
 
 ##（五）	商品资质与合作案例内容补充。
 
-![](/articles/yycloud/4-/images/shangjia5.jpg)
+![](/articles/yycloud/4-/images/shangjia5.png)
 
 a)	商品资质：请上传商品资质图片。
 
@@ -82,9 +82,9 @@ c)	案例截图：请上传商品合作案例的截图。
 填写完成后，请点击“下一步”进入商品售后方式补充信息填写页面。
 ##（六）	商品售后方式补充。
 
-![](/articles/yycloud/4-/images/shangjia6.jpg)
+![](/articles/yycloud/4-/images/shangjia6.png)
 
-![](/articles/yycloud/4-/images/shangjia7.jpg)
+![](/articles/yycloud/4-/images/shangjia7.png)
 
 
 a)	售后范围：请描述商品的服务时间、服务范围和业务范围。字数控制在1000个字符以内。
@@ -98,7 +98,7 @@ c)	商品协议：请填写商品的协议，字数控制在10000字符以内。
 
 ##（七）	上架商品提交，等待管理员审核通过。
 
-![](/articles/yycloud/4-/images/shangjia8.jpg)
+![](/articles/yycloud/4-/images/shangjia8.png)
 
 （作为服务商在上架的过程中在每个编辑页面，提供5分钟自动保存功能。）
 

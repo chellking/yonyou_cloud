@@ -1,6 +1,6 @@
-# 服务商入住
+# 服务商入驻
 
-## 入住流程
+## 入驻流程
 
 ![](/articles/yycloud/4-/images/import.png)
 

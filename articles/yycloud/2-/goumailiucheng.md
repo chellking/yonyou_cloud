@@ -32,9 +32,7 @@
  
 ![](/articles/yycloud/2-/images/goumai7.png)
  
-8、商品购买完成。
-
- 
+8、商品购买完成。 
 
 ## 订单查询
 

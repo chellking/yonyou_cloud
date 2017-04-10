@@ -23,8 +23,8 @@
 
 ![](/articles/yycloud/4-/images/ruzhu3.png)
 
- 5、进入“服务商中心”页，可以修改服务商信息等信息。
+ 6、进入“服务商中心”页，可以修改服务商信息等信息。
 
 ![](/articles/yycloud/4-/images/ruzhu4.png)
 
- 6.服务商入驻完成
+ 7、服务商入驻完成。

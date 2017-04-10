@@ -30,7 +30,7 @@
 
 7、点击“管理我的服务”，点击“已支付”，点击已支付的订单，进行服务确认。
  
- ![](/articles/yycloud/2-/images/goumai7.png)
+![](/articles/yycloud/2-/images/goumai7.png)
  
 8、商品购买完成。
 
@@ -47,6 +47,9 @@
 
 ![](/articles/yycloud/2-/images/goumai4.jpg)
 
-3、已支付及未支付订单可以通过本页查询，对未支付订单，可以选择“去支付”按钮，跳转到支付页，继续进行支付。
+3、已支付及未支付订单可以通过本页查询。对于未支付订单，可以点击进入该订单，然后点击“立即支付”按钮，跳转到支付页，继续进行支付。
+
+![](/articles/yycloud/2-/images/goumai8.png)
+
  
 4、订单查询完成。

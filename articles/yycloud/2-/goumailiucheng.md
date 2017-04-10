@@ -1,6 +1,6 @@
 # 购买流程
 ## 选取商品进行购买
-1、用户登录用友云：https://www.yonyoucloud.com/。
+1、用户登录用友云官网：https://www.yonyoucloud.com/。
 
 ![](/articles/yycloud/2-/images/fapiao01.jpg)
 

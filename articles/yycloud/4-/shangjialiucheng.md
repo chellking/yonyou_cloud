@@ -2,7 +2,7 @@
 ##（一）	上架商品可以是新增，或对现有商品进行再编辑进行上架。
 新增商品，点击“商品管理”->“已上架”的“添加商品”按钮，编辑商品基础信息。
 
-![](/articles/yycloud/4-/images/shangjia1.png)
+![](/articles/yycloud/4-/images/shangjia1.jpg)
 
 
 ##（二）	进入商品信息接入界面，选择商品分类，及开通方式。

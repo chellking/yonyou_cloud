@@ -3,7 +3,8 @@
 2017年五月起，原惠商云业务转移到新用友云
 
 1、企业账号开通（上新企业需要注册账号。续费直接使用MA服务器上配置的账号即可，无需此步骤）
-访问用友云官网https://www.yonyoucloud.com，点击右上角的注册
+访问用友云官网https://www.yonyoucloud.com，
+点击右上角的注册
 
 ![](/articles/yycloud/transfer/images/image1.png)
  

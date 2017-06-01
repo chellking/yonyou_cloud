@@ -35,7 +35,7 @@
     * [基础架构安全](articles/yycloud/whitepaper/infrastructure.md)
     * [物理安全](articles/yycloud/whitepaper/physics.md)
     * [用友云安全发展趋势](articles/yycloud/whitepaper/tendency.md)
-* [惠商云业务转移到用友云](articles/yycloud/transfer/zero.md)
+* [用友云(原惠商云)](articles/yycloud/transfer/edit.md)
 
 
 
